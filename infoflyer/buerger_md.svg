@@ -15,8 +15,8 @@
    height="274.961"
    viewBox="0, 0, 1621.417, 274.961"
    id="svg2"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="buerger_md.pdf">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="buerger_md.eps">
   <metadata
      id="metadata1514">
     <rdf:RDF>
@@ -38,14 +38,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="949"
+     inkscape:window-width="1215"
+     inkscape:window-height="776"
      id="namedview1512"
      showgrid="false"
-     inkscape:zoom="0.60531264"
-     inkscape:cx="761.36904"
-     inkscape:cy="231.03394"
-     inkscape:window-x="-4"
+     inkscape:zoom="0.67163475"
+     inkscape:cx="810.7085"
+     inkscape:cy="197.03668"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
@@ -142,31 +142,31 @@
        id="tspan4545"
        x="552.70801"
        y="-200.56799"
-       style="fill:#3f3e41;fill-opacity:1">Hotspot, akzeptieren die Nutzungsbedingungen</tspan>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Hotspot, akzeptieren die Nutzungsbedingungen</tspan>
     <tspan
        sodipodi:role="line"
        id="tspan4547"
        x="552.70801"
        y="-187.51799"
-       style="fill:#3f3e41;fill-opacity:1">und schon sind sie online. Wir helfen Dir dabei!</tspan>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">und schon sind sie online. Wir helfen Dir dabei!</tspan>
     <tspan
        sodipodi:role="line"
        id="tspan4549"
        x="552.70801"
        y="-174.46799"
-       style="fill:#3f3e41;fill-opacity:1">Als Mitglied unseres gemeinnützigen Vereins</tspan>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Als Mitglied unseres gemeinnützigen Vereins</tspan>
     <tspan
        sodipodi:role="line"
        id="tspan4551"
        x="552.70801"
        y="-161.418"
-       style="fill:#3f3e41;fill-opacity:1">helfen wir Dir nicht nur alles einzurichten, sondern</tspan>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">helfen wir Dir nicht nur alles einzurichten, sondern</tspan>
     <tspan
        sodipodi:role="line"
        id="tspan4553"
        x="552.70801"
        y="-148.368"
-       style="fill:#3f3e41;fill-opacity:1">geben Dir auch Rechtssicherheit!</tspan>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">geben Dir auch Rechtssicherheit!</tspan>
   </text>
   <text
      id="text95"
@@ -177,7 +177,7 @@
        y="-98.07"
        font-size="12.338"
        id="tspan97"
-       style="font-size:12.3380003px;fill:#e20d62;font-family:Systemschrift">Triff uns!</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Triff uns!</tspan>
   </text>
   <text
      id="text99"
@@ -441,7 +441,7 @@
      x="190.75301"
      y="-42.830002">
     <tspan
-       style="font-size:10.43999958px;fill:#3f3e41;font-family:'Systemschrift'"
+       style="font-size:12.00000006px;fill:#3f3e41;font-family:Systemschrift"
        id="tspan277"
        font-size="10.44"
        y="-39.330002"
@@ -494,7 +494,7 @@
        y="-218.951"
        font-size="12.338"
        id="tspan299"
-       style="font-size:12.3380003px;fill:#e20d62;font-family:'Systemschrift'">Netze in Nutzerhand</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Netze in Nutzerhand</tspan>
   </text>
   <text
      id="text301"
@@ -507,31 +507,31 @@
        id="tspan3747"
        x="284.36301"
        y="-200.56799"
-       style="fill:#3f3e41;fill-opacity:1;line-height:163%">Ist Dir bewusst, wie oft Du Dein Internet nicht</tspan>
+       style="fill:#3f3e41;fill-opacity:1;line-height:163%;font-size:10.00000005px">Ist Dir bewusst, wie oft Du Dein Internet nicht</tspan>
     <tspan
        sodipodi:role="line"
        id="tspan3749"
        x="284.36301"
        y="-187.51799"
-       style="fill:#3f3e41;fill-opacity:1;line-height:163%">benutzt? Durch Freifunk kannst Du Dein Internet</tspan>
+       style="fill:#3f3e41;fill-opacity:1;line-height:163%;font-size:10.00000005px">benutzt? Durch Freifunk kannst Du Dein Internet</tspan>
     <tspan
        sodipodi:role="line"
        id="tspan3751"
        x="284.36301"
        y="-174.46799"
-       style="fill:#3f3e41;fill-opacity:1;line-height:163%">mit Menschen teilen, die sich keinen Anschluss</tspan>
+       style="fill:#3f3e41;fill-opacity:1;line-height:163%;font-size:10.00000005px">mit Menschen teilen, die sich keinen Anschluss</tspan>
     <tspan
        sodipodi:role="line"
        id="tspan3753"
        x="284.36301"
        y="-161.418"
-       style="fill:#3f3e41;fill-opacity:1;line-height:163%">leisten können. Dabei wirst du Teil eines großen</tspan>
+       style="fill:#3f3e41;fill-opacity:1;line-height:163%;font-size:10.00000005px">leisten können. Dabei wirst du Teil eines großen</tspan>
     <tspan
        sodipodi:role="line"
        id="tspan3755"
        x="284.36301"
        y="-148.368"
-       style="fill:#3f3e41;fill-opacity:1;line-height:163%">Netzwerks.</tspan>
+       style="fill:#3f3e41;fill-opacity:1;line-height:163%;font-size:10.00000005px">Netzwerks.</tspan>
   </text>
   <text
      id="text429"
@@ -542,7 +542,7 @@
        y="-98.07"
        font-size="12.338"
        id="tspan431"
-       style="font-size:12.3380003px;fill:#e20d62;font-family:Systemschrift">Sicher teile ich mein Internet!</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Sicher teile ich mein Internet!</tspan>
   </text>
   <text
      id="text527"
@@ -575,7 +575,7 @@
        y="-218.951"
        font-size="13.287"
        id="tspan539"
-       style="font-size:13.2869997px;fill:#e20d62;font-family:Systemschrift">Unsere Stadt, unser Netz</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Unsere Stadt, unser Netz</tspan>
   </text>
   <text
      id="text613"
@@ -1159,7 +1159,7 @@
      x="71.221001"
      y="248.61301">
     <tspan
-       style="font-size:10.44900036px;fill:#3f3e41;font-family:'Systemschrift'"
+       style="font-size:12.00000006px;fill:#3f3e41;font-family:Systemschrift"
        id="tspan868"
        font-size="10.449"
        y="252.11301"
@@ -1174,7 +1174,7 @@
        y="71.353996"
        font-size="12.349"
        id="tspan874"
-       style="font-size:12.34899998px;fill:#e20d62;font-family:Systemschrift">Kostenfrei aber nicht umsonst</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Kostenfrei aber nicht umsonst</tspan>
   </text>
   <text
      id="text876"
@@ -1196,7 +1196,7 @@
        y="71.830002"
        font-size="12.349"
        id="tspan1020"
-       style="font-size:12.34899998px;fill:#e20d62;font-family:Systemschrift">Plötzlich hats gefunkt!</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Plötzlich hats gefunkt!</tspan>
   </text>
   <text
      id="text1276"
@@ -1207,7 +1207,7 @@
        y="71.830002"
        font-size="12.349"
        id="tspan1278"
-       style="font-size:12.34899998px;fill:#e20d62;font-family:Systemschrift">Du bist Teil der Community</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Du bist Teil der Community</tspan>
   </text>
   <text
      id="text1336"
@@ -1218,18 +1218,19 @@
        y="208.224"
        font-size="12.349"
        id="tspan1338"
-       style="font-size:12.34899998px;fill:#e20d62;font-family:Systemschrift">Erfahre mehr über unseren Verein</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Erfahre mehr über unseren Verein</tspan>
   </text>
   <text
      id="text1370"
      x="1158.2671"
-     y="67.830002">
+     y="67.830002"
+     style="font-size:12.00000006px">
     <tspan
        x="1090.821"
        y="71.830002"
        font-size="12.349"
        id="tspan1372"
-       style="font-size:12.34899998px;fill:#e20d62;font-family:Systemschrift">Freifunk - nur mit Dir!</tspan>
+       style="font-size:12.00000006px;fill:#e20d62;font-family:Systemschrift">Freifunk - nur mit Dir!</tspan>
   </text>
   <text
      id="text1500"
@@ -1292,17 +1293,17 @@
        id="tspan4539"
        x="284.36301"
        y="-82.287003"
-       style="fill:#3f3e41;fill-opacity:1">Du steckst den Freifunk-Router an Deinen Router</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Du steckst den Freifunk-Router an Deinen Router</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="-65.269798"
        id="tspan4541"
-       style="fill:#3f3e41;fill-opacity:1">an und schon teilst Du Dein Internet, sicher und</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">an und schon teilst Du Dein Internet, sicher und</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="-48.252605"
        id="tspan4543"
-       style="fill:#3f3e41;fill-opacity:1">einfach. Die User finden den offenen WLAN-</tspan></text>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">einfach. Die User finden den offenen WLAN-</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:10.43999958px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:162.99999952%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Systemschrift;-inkscape-font-specification:Systemschrift"
@@ -1314,50 +1315,47 @@
        id="tspan4559"
        x="552.70801"
        y="-82.287003"
-       style="fill:#3f3e41;fill-opacity:1">Erfahre auf <tspan
-   style="fill:#e20d62;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Erfahre auf <tspan
+   style="fill:#e20d62;fill-opacity:1;font-size:10.00000005px"
    id="tspan4583">www.md-freifunk.net</tspan> wann wir uns</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="-65.269806"
        id="tspan4563"
-       style="fill:#3f3e41;fill-opacity:1">wo treffen oder schreibe uns unter<tspan
-   style="fill:#e20d62;fill-opacity:1"
-   id="tspan4585"></tspan></tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">wo treffen oder schreibe uns unter</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="-48.252605"
-       style="fill:#3f3e41;fill-opacity:1"
-       id="tspan4960"><tspan
-         style="fill:#e20d62;fill-opacity:1"
-         id="tspan4962">kontakt@md.freifunk.net</tspan></tspan></text>
+       style="font-size:10px;fill:#e20d62;fill-opacity:1"
+       id="tspan4960">kontakt@md.freifunk.net</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:10.43999958px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:162.99999952%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Systemschrift;-inkscape-font-specification:Systemschrift"
-     x="1090.821"
-     y="-200.56799"
+     style="font-size:10.44029808px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:162.99999952%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Systemschrift;-inkscape-font-specification:Systemschrift"
+     x="1090.7902"
+     y="-200.57372"
      id="text4573"
-     sodipodi:linespacing="163%"><tspan
+     sodipodi:linespacing="163%"
+     transform="matrix(1.0000286,0,1.8269828e-6,0.99997144,0,0)"><tspan
        sodipodi:role="line"
        id="tspan4575"
-       x="1090.821"
-       y="-200.56799"
-       style="fill:#3f3e41;fill-opacity:1">Mit dem sogenannten Meshrouting verbinden sich</tspan><tspan
+       x="1090.7902"
+       y="-200.57372"
+       style="fill:#3f3e41;fill-opacity:1;font-size:9.99999986px">Mit dem sogenannten Meshrouting verbinden sich</tspan><tspan
        sodipodi:role="line"
-       x="1090.821"
-       y="-183.5508"
+       x="1090.7902"
+       y="-183.55605"
        id="tspan4577"
-       style="fill:#3f3e41;fill-opacity:1">unsere Router durch Funkkontakt miteinander.</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:9.99999986px">unsere Router durch Funkkontakt miteinander.</tspan><tspan
        sodipodi:role="line"
-       x="1090.821"
-       y="-166.5336"
+       x="1090.7902"
+       y="-166.53836"
        id="tspan4579"
-       style="fill:#3f3e41;fill-opacity:1">Dadurch können wir ein Netz über der ganzen</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:9.99999986px">Dadurch können wir ein Netz über der ganzen</tspan><tspan
        sodipodi:role="line"
-       x="1090.821"
-       y="-149.51639"
+       x="1090.7902"
+       y="-149.52066"
        id="tspan4581"
-       style="fill:#3f3e41;fill-opacity:1">Stadt bilden. Du wirst ein Teil davon.</tspan></text>
+       style="fill:#3f3e41;fill-opacity:1;font-size:9.99999986px">Stadt bilden. Du wirst ein Teil davon.</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:10.43999958px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:162.99999952%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Systemschrift;-inkscape-font-specification:Systemschrift"
@@ -1369,24 +1367,24 @@
        id="tspan4605"
        x="284.36301"
        y="88.929001"
-       style="fill:#3f3e41;fill-opacity:1">Ist Dir bereits aufgefallen, dass es in Deiner Nach-</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Ist Dir bereits aufgefallen, dass es in Deiner Nach-</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="105.9462"
        id="tspan4607"
-       style="fill:#3f3e41;fill-opacity:1">barschaft ein neues, offenes WLAN gibt? Es heißt</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">barschaft ein neues, offenes WLAN gibt? Es heißt</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="122.9634"
        id="tspan4609"
-       style="fill:#3f3e41;fill-opacity:1"><tspan
-   style="fill:#e20d62;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"><tspan
+   style="fill:#e20d62;fill-opacity:1;font-size:10.00000005px"
    id="tspan4625">Freifunk</tspan> und steht vielen Leuten in Deiner Nähe</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="139.98061"
        id="tspan4611"
-       style="fill:#3f3e41;fill-opacity:1">kostenfrei zur Verfügung.</tspan></text>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">kostenfrei zur Verfügung.</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:10.43999958px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:162.99999952%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Systemschrift;-inkscape-font-specification:Systemschrift"
@@ -1398,27 +1396,27 @@
        id="tspan4615"
        x="284.36301"
        y="174.00594"
-       style="fill:#3f3e41;fill-opacity:1">Jemand aus Deiner Nachbarschaft hat sich dazu</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Jemand aus Deiner Nachbarschaft hat sich dazu</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="191.02313"
        id="tspan4617"
-       style="fill:#3f3e41;fill-opacity:1">entschlossen, seinen Internetanschluss zu teilen. So</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">entschlossen, seinen Internetanschluss zu teilen. So</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="208.04033"
        id="tspan4619"
-       style="fill:#3f3e41;fill-opacity:1">können Menschen, die sich keinen Anschluss leisten</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">können Menschen, die sich keinen Anschluss leisten</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="225.05754"
        id="tspan4621"
-       style="fill:#3f3e41;fill-opacity:1">können, auch online gehen. Du kannst das</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">können, auch online gehen. Du kannst das</tspan><tspan
        sodipodi:role="line"
        x="284.36301"
        y="242.07474"
        id="tspan4623"
-       style="fill:#3f3e41;fill-opacity:1">Netzwerk nutzen oder sogar helfen es zu erweitern.</tspan></text>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Netzwerk nutzen oder sogar helfen es zu erweitern.</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:10.43999958px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:162.99999952%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Systemschrift;-inkscape-font-specification:Systemschrift"
@@ -1430,47 +1428,47 @@
        id="tspan4641"
        x="552.70801"
        y="88.929001"
-       style="fill:#3f3e41;fill-opacity:1">Welche Vorteile hat es für Dich, wenn Du Dich</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Welche Vorteile hat es für Dich, wenn Du Dich</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="105.9462"
        id="tspan4643"
-       style="fill:#3f3e41;fill-opacity:1">über den Netz39 e.V. einwählst?</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">über den Netz39 e.V. einwählst?</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="122.9634"
        id="tspan4645"
-       style="fill:#3f3e41;fill-opacity:1">    Du bezahlst kein Geld</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">    Du bezahlst kein Geld</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="139.98061"
        id="tspan4647"
-       style="fill:#3f3e41;fill-opacity:1">    Deine Daten bleiben bei Dir</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">    Deine Daten bleiben bei Dir</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="156.9978"
        id="tspan4649"
-       style="fill:#3f3e41;fill-opacity:1">    Du surfst völlig anonym</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">    Du surfst völlig anonym</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="174.015"
        id="tspan4651"
-       style="fill:#3f3e41;fill-opacity:1">    Du wirst Teil eines großen Netzwerks</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">    Du wirst Teil eines großen Netzwerks</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="191.0322"
        id="tspan4653"
-       style="fill:#3f3e41;fill-opacity:1" /><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px" /><tspan
        sodipodi:role="line"
        x="552.70801"
        y="208.04939"
        id="tspan4675"
-       style="fill:#3f3e41;fill-opacity:1">Wo gibt es Freifunk in Deiner Nähe?</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Wo gibt es Freifunk in Deiner Nähe?</tspan><tspan
        sodipodi:role="line"
        x="552.70801"
        y="225.06659"
        id="tspan4655"
-       style="fill:#e20d62;fill-opacity:1">map.md.freifunk.net</tspan></text>
+       style="fill:#e20d62;fill-opacity:1;font-size:10.00000005px">map.md.freifunk.net</tspan></text>
   <path
      style="fill:#feca11"
      inkscape:connector-curvature="0"
@@ -1500,22 +1498,22 @@
      sodipodi:linespacing="163%"><tspan
        sodipodi:role="line"
        id="tspan4814"
-       style="fill:#3f3e41;fill-opacity:1">Wenn Du das gut findest und über den Verein</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Wenn Du das gut findest und über den Verein</tspan><tspan
        sodipodi:role="line"
        id="tspan4816"
-       style="fill:#3f3e41;fill-opacity:1">online gehen möchtest, musst Du folgende</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">online gehen möchtest, musst Du folgende</tspan><tspan
        sodipodi:role="line"
        id="tspan4818"
-       style="fill:#3f3e41;fill-opacity:1">Nutzungsbedingungen akzeptieren:</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Nutzungsbedingungen akzeptieren:</tspan><tspan
        sodipodi:role="line"
        id="tspan4820"
-       style="fill:#3f3e41;fill-opacity:1">    Kein Filesharing</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">    Kein Filesharing</tspan><tspan
        sodipodi:role="line"
        id="tspan4822"
-       style="fill:#3f3e41;fill-opacity:1">    Keine Video- und Musikdownloads</tspan><tspan
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">    Keine Video- und Musikdownloads</tspan><tspan
        sodipodi:role="line"
        id="tspan4824"
-       style="fill:#3f3e41;fill-opacity:1">    Keine Video-Streams</tspan></text>
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">    Keine Video-Streams</tspan></text>
   <path
      style="fill:#feca11"
      inkscape:connector-curvature="0"
@@ -1540,52 +1538,52 @@
      sodipodi:linespacing="163%"><tspan
        sodipodi:role="line"
        id="tspan4874"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="88.929001">Du findest unser Konzept toll und willst uns unter-</tspan><tspan
        sodipodi:role="line"
        id="tspan4876"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="105.9462">stützen? So gehts:</tspan><tspan
        sodipodi:role="line"
        id="tspan4878"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="122.9634">    Erzähle vielen Leuten von uns</tspan><tspan
        sodipodi:role="line"
        id="tspan4880"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="139.98061">    Werde Mitglied des Vereins</tspan><tspan
        sodipodi:role="line"
        id="tspan4882"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="156.9978">    Unterstütze uns mit Spenden</tspan><tspan
        sodipodi:role="line"
        id="tspan4884"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="174.015">    Hilf uns Zugang zu hochgelegen Orten zu</tspan><tspan
        sodipodi:role="line"
        id="tspan4886"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="191.0322">    bekommen, so können wir am besten funken</tspan><tspan
        sodipodi:role="line"
        id="tspan4888"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="208.04939" /><tspan
        sodipodi:role="line"
        id="tspan4890"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="225.06659">Damit Du bald überall dort online sein kannst, wo</tspan><tspan
        sodipodi:role="line"
        id="tspan4892"
-       style="fill:#3f3e41;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"
        x="1090.821"
        y="242.0838">Du Dich gern aufhältst.</tspan></text>
   <path
@@ -1617,12 +1615,12 @@
      sodipodi:linespacing="163%"><tspan
        sodipodi:role="line"
        id="tspan4952"
-       style="fill:#3f3e41;fill-opacity:1"><tspan
-   style="fill:#e20d62;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px"><tspan
+   style="fill:#e20d62;fill-opacity:1;font-size:10.00000005px"
    id="tspan4956">www.md.freifunk.net</tspan> oder schreibe uns eine</tspan><tspan
        sodipodi:role="line"
        id="tspan4954"
-       style="fill:#3f3e41;fill-opacity:1">Mail an <tspan
-   style="fill:#e20d62;fill-opacity:1"
+       style="fill:#3f3e41;fill-opacity:1;font-size:10.00000005px">Mail an <tspan
+   style="fill:#e20d62;fill-opacity:1;font-size:10.00000005px"
    id="tspan4958">kontakt@md.freifunk.net</tspan></tspan></text>
 </svg>
