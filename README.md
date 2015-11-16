@@ -13,5 +13,6 @@ Public Relations for Freifunk Magdeburg
  * Magenta #dc0067
  * Zusatzfarbe (nur punktuell) #009ee0
 siehe auch [Freifunk Colors im freifunk.net-Wiki](https://wiki.freifunk.net/Freifunk-Styles)
-=======
-  * Quelle Refugee Flyer: https://github.com/freifunk-darmstadt/pr/tree/master/flyers-refugees
+
+
+* Quelle Refugee Flyer: https://github.com/freifunk-darmstadt/pr/tree/master/flyers-refugees
