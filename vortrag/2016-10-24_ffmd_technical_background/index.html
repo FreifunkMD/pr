@@ -101,18 +101,20 @@
 						<ul>
 							<li>Software, die auf den Knoten läuft</li>
 							<li>Linux</li>
-							<li><a href="https://openwrt.org/">OpenWRT</a></li>
+							<li><a href="https://openwrt.org/">OpenWRT</a> / <a href="https://lede-project.org/">LEDE</a></li>
 							<li><a href="http://gluon.readthedocs.io/">Gluon</a>
 								<ul>
 									<li>Freifunk Magdeburg (v0.37): v2016.1.5 (2016-03-26)</li>
 									<li>aktuelle Version upstream: v2016.2.2 (2016-12-18)</li>
 								</ul>
 							</li>
-							<li><a href="https://lede-project.org/">LEDE</a></li>
 					</section>
 					<section>
 						<h3>Gluon</h3>
 						<ul>
+							<li>2013 in Lübeck entstanden</li>
+							<li>mehr als 100 Freifunk-Communities nutzen Gluon</li>
+							<li>Beiträge von 85 Entwicklern</li>
 							<li>Buildsystem für OpenWRT/LEDE
 								<ul>
 									<li>Download</li>
@@ -127,7 +129,61 @@
 					<section>
 						<h3>OpenWRT / LEDE</h3>
 						<ul>
-							<li>tbd …</li>
+							<li>2003: Linksys verwendet im WRT 54G Software unter GPL</li>
+							<li>2004: Gründung Linux-Distribution <em>OpenWRT</em></li>
+							<li>Embedded Systems (»Plasterouter«)</li>
+							<li>Firmware-Buildsystem (Fork von einem frühen buildroot)</li>
+							<li>Paketmanager (opkg)</li>
+							<li>Releasenamen sind Cocktails:
+								White Russian (2006–2007),
+								Kamikaze (2007–2010),
+								Backfire (10.03),
+								Attitude Adjustment (12.09),
+								Barrier Breaker (14.07),
+								Chaos Calmer (15.05)</li>
+							<li>2016: unzufriedene OpenWRT-Entwickler starten neuen Fork <em>LEDE</em></li>
+						</ul>
+					</section>
+					<section>
+						<h3>Gluon-basierte Freifunk-Firmware</h3>
+						<ul>
+							<li>Mesh zwischen Knoten über ad-hoc (IBSS) oder 802.11s</li>
+							<li>VPN mit <a href="https://projects.universe-factory.net/projects/fastd/wiki">Fast and Secure Tunneling
+									Daemon (fastd)</a></li>
+							<li>Unverschlüsselte Verbindungen zum Gateway mit <em>Layer 2 Tunneling Protocol (L2TP)</em></li>
+							<li>Mesh Routing mit <a href="https://www.open-mesh.org/">B.A.T.M.A.N. Advanced</a></li>
+							<li>Node Monitoring mit <a href="https://www.open-mesh.org/projects/alfred/wiki">A.L.F.R.E.D</a> und
+								<em>respondd</em> (Gluon)</li>
+							<li>Automatische Updates</li>
+							<li>Webinterface: Config Modus und
+								<a href="https://md.freifunk.net/2015/12/neue-statusseite-auf-den-knoten/">Statusseite</a></li>
+							<li>Private WLAN</li>
+							<li>Wired Mesh</li>
+							<li>Commandline Administration (SSH)</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Freifunk Magdeburg Firmware</h3>
+						<ul>
+							<li><code>build.sh</code> → Gluon → OpenWRT → Firmware-Images</li>
+							<li>Konfiguration für Magdeburg bei GitHub: <a href="https://github.com/FreifunkMD/site-ffmd">site-ffmd</a>
+								<ul>
+									<li><code>build.sh</code>: Shell Script zur Steuerung der Gluon-Builds für verschiedene Targets
+										(ar71xx, brcm270?, mpc85xx, x86, virtual)</li>
+									<li><code>i18n</code>: Übersetzungen für Webinterface des Knotens</li>
+									<li><code>site.conf</code>: Lua Script mit Community-spezifischen Einstellungen (IP-Bereiche,
+										Serveradressen, SSID, fastd-Keys, Autoupdater, …)</li>
+									<li><code>site.mk</code>: Gluon Packages und Release</li>
+								</ul>
+							</li>
+							<li>Download von <a href="https://firmware.md.freifunk.net/">firmware.md.freifunk.net</a></li>
+						</ul>
+					</section>
+					<section>
+						<h3>Live-Demo Webinterfaces</h3>
+						<ul>
+							<li>Config-Modus</li>
+							<li>Status-Page</li>
 						</ul>
 					</section>
 				</section>
