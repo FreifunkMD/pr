@@ -4,10 +4,10 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+		<title>Freifunk Magdeburg, die technische Seite</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/black.css">
+		<link rel="stylesheet" href="css/theme/white.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -24,8 +24,226 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<!-- Titelfolie -->
+				<section>
+					<h1>Freifunk Magdeburg</h1>
+					<h2>Die technische Seite</h2>
+					<p>2017-01-23</p>
+				</section>
+
+				<!-- Gliederung -->
+				<section>
+					<h2>Zusammenspielende Komponenten</h2>
+					<ul>
+						<li>Knoten bzw. Router aka Geräte
+							<ul>
+								<li>weiße Plastekisten</li>
+								<li>Firmware</li>
+							</ul>
+						</li>
+						<li>Gateways
+							<ul>
+								<li>Hardware</li>
+								<li>Software
+									<ul>
+										<li>Betriebssystem</li>
+										<li>Routing</li>
+										<li>Karte</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</section>
+
+				<!-- Help -->
+				<section>
+					<h2>Help!</h2>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/1PWk3i9WT-8" frameborder="0" allowfullscreen></iframe>
+				</section>
+
+				<!-- Knoten Hardware -->
+				<section>
+					<section>
+						<h2>Knoten</h2>
+						<h3>Hardware</h3>
+						<ul>
+							<li>sogenannte »Plasterouter«</li>
+							<li>Embedded: schmale CPU, wenig RAM und Flash</li>
+							<li>Von Gluon (v2016.1.5) <a href="http://gluon.readthedocs.io/en/v2016.1.5/#supported-devices-architectures">unterstützte Geräte</a>:
+								<ul>
+									<li>TP-Link</li>
+									<li>Ubiquiti</li>
+									<li>x86</li>
+									<li>u.v.m. …</li>
+								</ul>
+							</li>
+						</ul>
+					</section>
+					<section>
+						<h3>TP-Link TL-WDR4300 (v1)</h3>
+						<p><img src="img/img_2611.jpg" /></p>
+					</section>
+					<section>
+						<h3>Ubiquiti Nanostation M2</h3>
+						<p><img src="img/img_2612.jpg" /></p>
+					</section>
+					<section>
+						<h3>TP-Link TL-WR841ND (v8)</h3>
+						<p><img src="img/img_2613.jpg" /></p>
+					</section>
+					<section>
+						<h3>TP-Link TL-MR3020 (v1)</h3>
+						<p><img src="img/img_2614.jpg" /></p>
+					</section>
+				</section>
+
+				<!-- Knoten Firmware -->
+				<section>
+					<section>
+						<h2>Knoten</h2>
+						<h3>Firmware</h3>
+						<ul>
+							<li>Freie Software, die auf den Knoten läuft</li>
+							<li>Embedded Linux</li>
+							<li><a href="https://openwrt.org/">OpenWRT</a> / <a href="https://lede-project.org/">LEDE</a></li>
+							<li><a href="http://gluon.readthedocs.io/">Gluon</a>
+								<ul>
+									<li>Freifunk Magdeburg (v0.37): v2016.1.5 (2016-03-26)</li>
+									<li>aktuelle Version upstream: v2016.2.2 (2016-12-18)</li>
+								</ul>
+							</li>
+					</section>
+					<section>
+						<h3>Gluon</h3>
+						<ul>
+							<li>2013 in Lübeck entstanden</li>
+							<li>mehr als 100 Freifunk-Communities nutzen Gluon</li>
+							<li>Beiträge von 85 Entwicklern</li>
+							<li>Buildsystem für OpenWRT/LEDE
+								<ul>
+									<li>Download</li>
+									<li>Compile</li>
+									<li>Pack</li>
+								</ul>
+							</li>
+							<li>OpenWRT plus verschiedene <em>packages</em> (OpenWRT, Gluon, Routing, Luci)</li>
+							<li>Community specific configuration: <em>site</em>
+						</ul>
+					</section>
+					<section>
+						<h3>OpenWRT / LEDE</h3>
+						<ul>
+							<li>2003: Linksys verwendet im WRT 54G Software unter GPL</li>
+							<li>2004: Gründung Linux-Distribution <em>OpenWRT</em></li>
+							<li>Embedded Systems (»Plasterouter«)</li>
+							<li>Firmware-Buildsystem (Fork von einem frühen buildroot)</li>
+							<li>Paketmanager (opkg)</li>
+							<li>Releasenamen sind Cocktails:
+								White Russian (2006–2007),
+								Kamikaze (2007–2010),
+								Backfire (10.03),
+								Attitude Adjustment (12.09),
+								Barrier Breaker (14.07),
+								Chaos Calmer (15.05)</li>
+							<li>2016: unzufriedene OpenWRT-Entwickler starten neuen Fork <em>LEDE</em></li>
+						</ul>
+					</section>
+					<section>
+						<h3>Gluon-basierte Freifunk-Firmware</h3>
+						<ul>
+							<li>Mesh zwischen Knoten über ad-hoc (IBSS) oder 802.11s</li>
+							<li>VPN mit <a href="https://projects.universe-factory.net/projects/fastd/wiki">Fast and Secure Tunneling
+									Daemon (fastd)</a></li>
+							<li>Unverschlüsselte Verbindungen zum Gateway mit <em>Layer 2 Tunneling Protocol (L2TP)</em></li>
+							<li>Mesh Routing mit <a href="https://www.open-mesh.org/">B.A.T.M.A.N. Advanced</a></li>
+							<li>Node Monitoring mit <a href="https://www.open-mesh.org/projects/alfred/wiki">A.L.F.R.E.D</a> und
+								<em>respondd</em> (Gluon)</li>
+							<li>Automatische Updates</li>
+							<li>Webinterface: Config Modus und
+								<a href="https://md.freifunk.net/2015/12/neue-statusseite-auf-den-knoten/">Statusseite</a></li>
+							<li>Private WLAN</li>
+							<li>Wired Mesh</li>
+							<li>Commandline Administration (SSH)</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Freifunk Magdeburg Firmware</h3>
+						<ul>
+							<li><code>build.sh</code> → Gluon → OpenWRT → Firmware-Images</li>
+							<li>Konfiguration für Magdeburg bei GitHub: <a href="https://github.com/FreifunkMD/site-ffmd">site-ffmd</a>
+								<ul>
+									<li><code>build.sh</code>: Shell Script zur Steuerung der Gluon-Builds für verschiedene Targets
+										(ar71xx, brcm270?, mpc85xx, x86, virtual)</li>
+									<li><code>i18n</code>: Übersetzungen für Webinterface des Knotens</li>
+									<li><code>site.conf</code>: Lua Script mit Community-spezifischen Einstellungen (IP-Bereiche,
+										Serveradressen, SSID, fastd-Keys, Autoupdater, …)</li>
+									<li><code>site.mk</code>: Gluon Packages und Release</li>
+								</ul>
+							</li>
+							<li>Download von <a href="https://firmware.md.freifunk.net/">firmware.md.freifunk.net</a></li>
+						</ul>
+					</section>
+					<section>
+						<h3>Live-Demo Webinterfaces</h3>
+						<ul>
+							<li>Config-Modus</li>
+							<li>Status-Page</li>
+						</ul>
+					</section>
+				</section>
+
+				<!-- Gateways -->
+				<section>
+					<section>
+					<h2>Gateways</h2>
+					<ul>
+						<li>Weg vom Client ins Internet</li>
+						<li>Verbindung der »Meshinseln«</li>
+						<li>Dienste für Knoten und Clients
+							<ul>
+								<li>DNS</li>
+								<li>DHCP (IPv4)</li>
+								<li>NTP</li>
+							</ul>
+						</li>
+						<li>Statistiken und Karte</li>
+					</ul>
+					</section>
+
+					<section>
+						<h3>Hardware</h3>
+						<ul>
+							<li>gw1.md.freifunk.net
+								<ul>
+									<li>vServer</li>
+									<li>CPU: 1 core at 2 GHz, RAM: 4 GB</li>
+									<li>Debian GNU/Linux 7 (wheezy)</li>
+								</ul>
+							</li>
+							<li>gw2.md.freifunk.net
+								<ul>
+									<li>root-Server</li>
+									<li>CPU: 2 cores at 3 GHz, RAM: 8 GB</li>
+									<li>Debian GNU/Linux 8 (jessie)</li>
+								</ul>
+							</li>
+						</ul>
+					</section>
+				</section>
+
+				<!-- Lizenzkram und Kontaktadressen -->
+				<section>
+					<h2>Kontakt</h2>
+					<ul>
+						<li><strong>WWW:</strong> <a href="https://md.freifunk.net/">md.freifunk.net</a></li>
+						<li><strong>Twitter:</strong> <a href="https://twitter.com/freifunkmd">@freifunkmd</a></li>
+						<li><strong>IRC:</strong> <code>#freifunkmd</code> auf freenode</li>
+					</ul>
+
+					<h2>Lizenz</h2>
+					<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+				</section>
 			</div>
 		</div>
 
@@ -48,3 +266,4 @@
 		</script>
 	</body>
 </html>
+<!-- vim: set noet: -->
