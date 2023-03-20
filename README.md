@@ -1,13 +1,10 @@
-pr
-==
+# pr
 
 Public Relations for Freifunk Magdeburg
 
 * verwendete Fonts: 
   * [Opensans](http://www.opensans.com/)
   * [Politics Head](http://wiki.piratenpartei.de/Datei:PoliticsHeadv1_9.zip)
-<<<<<<< HEAD
-
 * Freifunk Farben (Zitat aus dem Wiki ()): 
  * Gelb #ffb400
  * Magenta #dc0067
